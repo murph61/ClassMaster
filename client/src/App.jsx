@@ -55,9 +55,10 @@ function App() {
         <p class="example-prompt">What is chatgpt</p>
         <p class="example-prompt">What is chatgpt</p>
       </div> */}
+      <h2>ChatBot</h2>
       <div class="container">
         <div>
-          <h2>ChatBot</h2>
+          
           {/* <img
           src={webLogo}
           alt=""
